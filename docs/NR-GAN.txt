@@ -1,0 +1,6 @@
+@inproceedings{kaneko2020NR-GAN,
+  title={Noise Robust Generative Adversarial Networks},
+  author={Kaneko, Takuhiro and Harada, Tatsuya},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2020}
+}
