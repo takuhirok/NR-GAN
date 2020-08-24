@@ -69,7 +69,7 @@ case ${MODEL} in
     "ambientgan" )
 	OPTION="${OPTION} --noise_measure" ;;
     "sinrgan1" )
-	OPTION="${OPTION} --prior additive_gaussian" ;;
+	OPTION="${OPTION} --gn_train --prior additive_gaussian" ;;
     "sinrgan2" )
 	OPTION="${OPTION} --gn_train --rotation --channel_shuffle --color_inversion" ;;
     "sdnrgan1" )
