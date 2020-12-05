@@ -18,7 +18,7 @@ Please check them from the links below.
 [Takuhiro Kaneko](http://www.kecl.ntt.co.jp/people/kaneko.takuhiro/) and [Tatsuya Harada](https://www.mi.t.u-tokyo.ac.jp/harada/).
 In CVPR, 2020.
 
-[**[Paper]**](https://arxiv.org/abs/1911.11776) [**[Project]**](https://takuhirok.github.io/NR-GAN/) [**[Slides]**](docs/NR-GAN_slides.pdf)
+[**[Paper]**](https://arxiv.org/abs/1911.11776) [**[Project]**](https://takuhirok.github.io/NR-GAN/) [**[Slides]**](docs/NR-GAN_slides.pdf) [**[Video]**](https://youtu.be/U0R5i8o_d40)
 
 ## Installation
 
