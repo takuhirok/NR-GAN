@@ -6,11 +6,13 @@ NR-GAN is unique in that it can learn a *clean image generator* even when only *
 <img src="docs/images/examples.png" width=100% alt="NR-GAN examples">
 
 **Note:**
-In our previous studies, we have also proposed GANs for *label noise*.
+In our previous studies, we have also proposed GAN for *label noise* and GAN for *ambiguous labels*.
+In our follow-up study, we have also proposed GAN for *blur, noise, and compression*.
 Please check them from the links below.
 
 - [**Label-noise robust GAN (rGAN)**](https://takuhirok.github.io/rGAN/) (CVPR 2019)
 - [**Classifier's posterior GAN (CP-GAN)**](https://takuhirok.github.io/CP-GAN/) (BMVC 2019)
+- [**Blur, noise, and compression robust GAN (BNCR-GAN)**](https://takuhirok.github.io/BNCR-GAN/) (CVPR 2021)
 
 ## Paper
 
@@ -121,3 +123,5 @@ If you find this work useful for your research, please cite our paper.
 1. A. Bora, E. Price, A. G. Dimakis. [**AmbientGAN: Generative Models from Lossy Measurements**](https://github.com/AshishBora/ambient-gan/). In ICLR, 2018.
 2. T. Kaneko, Y. Ushiku, T. Harada. [**Label-Noise Robust Generative Adversarial Networks**](https://takuhirok.github.io/rGAN/). In CVPR, 2019.
 3. T. Kaneko, Y. Ushiku, T. Harada. [**Class-Distinct and Class-Mutual Image Generation with GANs**](https://takuhirok.github.io/CP-GAN/). In BMVC, 2019.
+4. T. Kaneko, T. Harada.
+[**Blur, Noise, and Compression Robust Generative Adversarial Networks**](https://takuhirok.github.io/BNCR-GAN/). In CVPR, 2021.
